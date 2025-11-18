@@ -50,7 +50,7 @@ If you prefer an IDE (IntelliJ IDEA, Eclipse, VS Code with Java extensions), ope
    A B X Y
    ```
 4. If you repeat the sequence correctly, you earn a point and the sequence grows by one new random colour.
-5. The game continues until you make a mistake. On game over a celebration routine is shown and your final score is printed.
+5. The game continues until you make a mistake. On game over a celebration routine is shown and your final score is shown. 
 
 ---
 
@@ -123,8 +123,5 @@ This README and the example project are provided under the **MIT License** — f
 
 ## Notes
 - The program simulates hardware (LEDs and robot movements) using console output and `Thread.sleep(...)` calls. No external hardware is required.
-- I generated this README by reading the `SimonGame.java` file you uploaded. If you'd like, I can:
-  - Save this README into the project directory as `README.md`.
-  - Improve or tailor the README (add screenshots, exact sample input/output from a run you paste here, or produce a GitHub-flavored markdown).
 
 
