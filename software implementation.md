@@ -72,7 +72,7 @@ The implementation report includes black-box testing for:
 - SwiftBot movement and LED behaviour
 - logging and scoreboard updates
 - quit / restart controls
-- undo, timer, and difficulty settings fileciteturn1file18turn1file19
+- undo, timer, and difficulty settings 
 
 Most core functional requirements were marked as passed, while some areas were partially successful or flagged for refinement, especially UI consistency, input validation consistency, and some aspects of calibration / motion / timer presentation. 
 
